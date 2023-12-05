@@ -14,4 +14,5 @@ I believe in continuous improvement, and currently, I'm expanding my skills in o
 
 ### 🔧 Projects
 Here are some projects I've worked on:
+
 -[frc6390.ca Website]: A dynamic and engaging website with the goal of displaying the passion of FRC Team 6390. 
