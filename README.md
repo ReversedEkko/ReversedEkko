@@ -12,7 +12,7 @@ I'm a passionate full stack developer with a keen interest in creating beautiful
 - C#
 
 ### 🌱 Currently Learning
-I believe in continuous improvement, and currently, I'm expanding my skills in object orinated programming languages, like c++ and java
+I believe in continuous improvement, and currently, I'm expanding my skills in machine learning and A* path finding.
 
 ### 🔧 Projects
 Here are some projects I've worked on:
